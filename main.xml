@@ -84,7 +84,7 @@
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./art/Digital-Serial-Bold-folder.ttf</fontPath>
 			<fontSize>0.0425925925925926</fontSize>
-			<lineSpacing>1.565130434782609</lineSpacing>
+			<lines>9</lines>
 			<primaryColor>ffffff66</primaryColor>
 			<secondaryColor>ffff00</secondaryColor>
 			<selectedColor>ffffff</selectedColor>
